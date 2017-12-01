@@ -2,7 +2,7 @@
 / *
 Write a function that accepts a user input phone number string type and returns a normalized United States phone number string type in E.164 format. Return null (or an equivalent value) if the user input phone number is invalid.
 */
-I have used the google library called libphonenumber. As you said i can use the libraries.
+I have used the google library called libphonenumber.
 Process :-
 1.We are parsing the input number in US number.
 2. Checking whether the number is a valid US number or not.
